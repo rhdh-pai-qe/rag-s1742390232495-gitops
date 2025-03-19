@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rag-s1742390232495-gitops-repository
+spec:
+  url: https://github.com/rhdh-pai-qe/rag-s1742390232495-gitops
